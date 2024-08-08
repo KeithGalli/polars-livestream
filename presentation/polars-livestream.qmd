@@ -1,0 +1,87 @@
+---
+title: "Learning New Libraries (Polars)"
+author: "Keith Galli"
+format: 
+    revealjs:
+        theme: black
+        incremental: true
+        
+---
+
+## What is Polars
+
+- Dataframe Manipulation Library similar to Pandas
+- Performance optimized
+
+## 
+
+![](images/polars-performance.png){fig-align="center" width="90px"}
+
+
+## 
+
+![](images/polars-advantages.png){fig-align="center"}
+
+## Why haven't I used it yet?
+
+- I'm not typically working on performance critical jobs
+- Smaller datasets / workflows
+
+## Strategy to learn it
+
+- Start with the documentation
+- YouTube videos as needed
+- Applied practice (Basics)
+- Applied practice (More advanced)
+
+# General Learning Recommendations
+
+## Focus
+
+- Focus
+- Focus
+- Focus
+
+## Deep Work
+
+:::: {.columns}
+
+::: {.column}
+![](images/deep-work.png)
+:::
+
+::: {.column}
+- 45-90 minute dedicated blocks of distraction free concentration
+:::
+
+::::
+
+## Phones
+
+:::: {.columns}
+
+::: {.column width="20%" .fragment}
+![](images/phone.png)
+:::
+
+::: {.column width="80%" .fragment}
+![](images/phone-launch.png)
+:::
+
+::::
+
+## Location
+
+- Find a spot that is comfortable for your focused block of work!
+
+:::: {.columns}
+
+::: {.column width="50%" .fragment}
+![](images/ocean.jpeg)
+:::
+
+::: {.column width="50%" .fragment}
+![](images/desert.png)
+:::
+
+::::
